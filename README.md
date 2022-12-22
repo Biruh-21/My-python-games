@@ -6,8 +6,4 @@ Blackjack is a card game that pits player versus dealer. It is played with one o
 
 <h2>Higher-Lower</h2>
 
-It's easy to play. You will be shown two cards. You simply have to decide whether the second card is searched for higher or lower than the first card.
-
- 
-
-As you progress, you will be shown a new card. Choose higher or lower to decide whether it is searched for more or less than the previous card. The objective is to get the most right in a row. If you get one wrong, you lose the game.
+It's easy to play. You will be shown two cards. You simply have to decide which card has more followers. As you progress, you will be shown a new card. The objective is to get the most right in a row. If you get one wrong, you lose the game.
