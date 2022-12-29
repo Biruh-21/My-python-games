@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@Biruh-21 
+Biruh-21
+/
+My-python-games
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+My-python-games/SnakeGameGUI/snake.py /
+@Biruh-21
+Biruh-21 adding SnakeGame to my games
+Latest commit 8229783 3 days ago
+ History
+ 1 contributor
+54 lines (44 sloc)  1.46 KB
+
 from turtle import Turtle
 MOVE_DISTANCE = 20
 UP = 90
@@ -52,3 +82,18 @@ class Snake:
     def down(self):
         if self.head.heading() != UP:
             self.head.setheading(DOWN)
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+My-python-games/snake.py at main · Biruh-21/My-python-games
