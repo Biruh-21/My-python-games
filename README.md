@@ -11,3 +11,7 @@ It's easy to play. You will be shown two cards. You simply have to decide which 
 <h2>US-States</h2>
 
 This game asks for the firty states of the unites states of america, and it will put the states you name on the map. and after finishing playing the game it will prepare a .csv list that contains the states that you forgot.
+
+<h2>Snake-Game</h2>
+
+This is the snake game that I love the most. It has a feature so it can hold your previous high score even after you close and rerun the code. I hope you will love it. Make a fun.
